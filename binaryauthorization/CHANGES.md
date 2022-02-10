@@ -1,5 +1,12 @@
 # Changes
 
+## [0.3.0](https://github.com/googleapis/google-cloud-go/compare/binaryauthorization/v0.2.0...binaryauthorization/v0.3.0) (2022-02-10)
+
+
+### Features
+
+* **binaryauthorization:** Updates the summary of Binary Authorization to include more recently supported platforms, Anthos clusters on VMware and Cloud Run ([61f23b2](https://github.com/googleapis/google-cloud-go/commit/61f23b2167dbe9e3e031db12ccf46b7eac639fa3))
+
 ## [0.2.0](https://www.github.com/googleapis/google-cloud-go/compare/binaryauthorization/v0.1.0...binaryauthorization/v0.2.0) (2022-01-04)
 
 
