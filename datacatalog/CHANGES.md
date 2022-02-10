@@ -1,5 +1,12 @@
 # Changes
 
+## [1.2.0](https://github.com/googleapis/google-cloud-go/compare/datacatalog/v1.1.0...datacatalog/v1.2.0) (2022-02-10)
+
+
+### Features
+
+* **datacatalog:** Add methods and messages related to starring feature feat: Add methods and messages related to business context feature docs: Updates copyright message ([61f23b2](https://github.com/googleapis/google-cloud-go/commit/61f23b2167dbe9e3e031db12ccf46b7eac639fa3))
+
 ## [1.1.0](https://www.github.com/googleapis/google-cloud-go/compare/datacatalog/v1.0.0...datacatalog/v1.1.0) (2022-01-04)
 
 
