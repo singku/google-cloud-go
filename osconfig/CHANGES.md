@@ -1,5 +1,13 @@
 # Changes
 
+## [1.3.0](https://github.com/googleapis/google-cloud-go/compare/osconfig/v1.2.0...osconfig/v1.3.0) (2022-02-10)
+
+
+### Features
+
+* **osconfig:** Update osconfig v1 protos ([61f23b2](https://github.com/googleapis/google-cloud-go/commit/61f23b2167dbe9e3e031db12ccf46b7eac639fa3))
+* **osconfig:** Update v1beta protos with recently added features. PatchRollout proto, mig_instances_allowed field to PatchConfig, UpdatePatchDeployment RPC,PausePatchDeployment and ResumePatchDeployment pair of RPCs ([61f23b2](https://github.com/googleapis/google-cloud-go/commit/61f23b2167dbe9e3e031db12ccf46b7eac639fa3))
+
 ## [1.2.0](https://www.github.com/googleapis/google-cloud-go/compare/osconfig/v1.1.0...osconfig/v1.2.0) (2022-01-04)
 
 
