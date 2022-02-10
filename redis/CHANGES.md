@@ -1,5 +1,12 @@
 # Changes
 
+## [1.3.0](https://github.com/googleapis/google-cloud-go/compare/redis/v1.2.0...redis/v1.3.0) (2022-02-10)
+
+
+### Features
+
+* **redis:** add secondary_ip_range field ([61f23b2](https://github.com/googleapis/google-cloud-go/commit/61f23b2167dbe9e3e031db12ccf46b7eac639fa3))
+
 ## [1.2.0](https://www.github.com/googleapis/google-cloud-go/compare/redis/v1.1.1...redis/v1.2.0) (2022-02-03)
 
 
